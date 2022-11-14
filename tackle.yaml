@@ -4,5 +4,5 @@ unreleased_declarative_hook<-:
   foo: bar
 
 this: that
-released_in_hooks->: released_in_hooks
+unreleased_in_hooks->: unreleased_in_hooks
 unreleased_declarative_hook->: unreleased_declarative_hook
