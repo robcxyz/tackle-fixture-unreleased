@@ -1,8 +1,6 @@
-
-
-unreleased_declarative_hook<-:
+TackleFileHook<-:
   foo: bar
 
-this: that
-unreleased_in_hooks->: unreleased_in_hooks
-unreleased_declarative_hook->: unreleased_declarative_hook
+hooks_dir_hook->: HooksDirHook
+python_hook->: python_hook
+tackle_file_hook->: TackleFileHook
